@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rizwan
-- 👀 I’m interested in WordPress Work
-- 🌱 I’m currently Developing WordPress Websites & Also Learning Custom Theme Development
+- 👀 I’m interested in WordPress Shopify & Webflow
+- 🌱 I’m currently Developing WordPress & Webflow Websites & Also Learning Custom Theme Development
 - 💞️ I’m looking to collaborate on WordPress Websites
 - 📫 How to reach me www.linkedin.com/in/muhammad-rizwan-0059b0196
 
